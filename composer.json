@@ -1,0 +1,24 @@
+{
+    "name": "dell/designpattern",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Designpattern\\": "src/",
+            "Creational\\": "./"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Dell\\Designpattern\\Tests\\": "Tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fares-7",
+            "email": "faresghandour718@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
